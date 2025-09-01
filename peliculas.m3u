@@ -1,5 +1,12 @@
 #EXTINF:-1 tvg-logo="https://imgs.search.brave.com/ZldyaattWdiOxOiEu3DJr5JSvWiFjeVAEcnHQjT_hFc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9lcy53/ZWIuaW1nMi5hY3N0/YS5uZXQvY18zMDBf/MzAwL2ltZy9iOC9m/Mi9iOGYyMGM1ZDU4/ZjRkN2M4ZGE4ZTIx/NDQ0OTViNGZjMy5q/cGc",Enemigos 
 http://195.66.210.10:80/movie/Bluefox102/XYXNA/616012.mp4
+
+#EXTINF:-1 tvg-id="pelicula123" tvg-name="Mi Pelicula" tvg-logo="https://imgs.search.brave.com/ZldyaattWdiOxOiEu3DJr5JSvWiFjeVAEcnHQjT_hFc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9lcy53/ZWIuaW1nMi5hY3N0/YS5uZXQvY18zMDBf/MzAwL2ltZy9iOC9m/Mi9iOGYyMGM1ZDU4/ZjRkN2M4ZGE4ZTIx/NDQ0OTViNGZjMy5q/cGc" group-title="movie",Mi Pelicula
+http://url-del-stream.com/mi-pelicula.mp4
+
+
+
+
 #EXTINF:-1,Exilio (2025)
 http://195.66.210.10:80/movie/Bluefox102/XYXNA/616011.mp4
 #EXTINF:-1,Un buen día para morir (2023)
