@@ -1,0 +1,423 @@
+{
+  "manifest": {
+    "id": "org.stremio.m3u-manager",
+    "version": "1.0.0",
+    "name": "🎬 M3U Manager",
+    "description": "Contenido de playlists M3U organizadas por plataforma y género",
+    "resources": [
+      "catalog",
+      "stream"
+    ],
+    "types": [
+      "movie"
+    ],
+    "catalogs": [
+      {
+        "type": "movie",
+        "id": "all-content",
+        "name": "Todo el contenido",
+        "genres": [
+          "Acción",
+          "Animación",
+          "Ciencia ficción",
+          "Ciencia",
+          "Comedy",
+          "Crime",
+          "Documentary",
+          "Drama",
+          "Romance",
+          "Suspense",
+          "Horror"
+        ],
+        "extra": [
+          {
+            "name": "genre",
+            "options": [
+              "Acción",
+              "Animación",
+              "Ciencia ficción",
+              "Ciencia",
+              "Comedy",
+              "Crime",
+              "Documentary",
+              "Drama",
+              "Romance",
+              "Suspense",
+              "Horror"
+            ]
+          },
+          {
+            "name": "skip"
+          }
+        ],
+        "extraSupported": [
+          "genre",
+          "skip"
+        ]
+      },
+      {
+        "type": "movie",
+        "id": "by-platform",
+        "name": "Por plataformas",
+        "genres": [
+          "Hulu"
+        ],
+        "extra": [
+          {
+            "name": "genre",
+            "options": [
+              "Hulu"
+            ]
+          },
+          {
+            "name": "skip"
+          }
+        ],
+        "extraSupported": [
+          "genre",
+          "skip"
+        ]
+      }
+    ],
+    "idPrefixes": [
+      "tt"
+    ]
+  },
+  "movies": [
+    {
+      "id": "tt1000000",
+      "name": "Snake Eyes: El origen (2021)",
+      "type": "movie",
+      "url": "http://195.66.210.10:80/movie/Bluefox102/XYXNA/216151.mkv",
+      "poster": "https://image.tmdb.org/t/p/w500/uIXF0sQGXOxQhbaEaKOi2VYlIL0.jpg",
+      "genres": [
+        "Acción"
+      ],
+      "platform": "Hulu"
+    },
+    {
+      "id": "tt1000001",
+      "name": "Monster Hunter (2020)",
+      "type": "movie",
+      "url": "http://195.66.210.10:80/movie/Bluefox102/XYXNA/415027.mkv",
+      "poster": "https://image.tmdb.org/t/p/w500/1UCOF11QCw8kcqvce8LKOO6pimh.jpg",
+      "genres": [
+        "Acción"
+      ],
+      "platform": "Hulu"
+    },
+    {
+      "id": "tt1000002",
+      "name": "Monster Hunter (2020)",
+      "type": "movie",
+      "url": "http://195.66.210.10:80/movie/Bluefox102/XYXNA/174800.mkv",
+      "poster": "https://image.tmdb.org/t/p/w500/1UCOF11QCw8kcqvce8LKOO6pimh.jpg",
+      "genres": [
+        "Acción"
+      ],
+      "platform": "Hulu"
+    },
+    {
+      "id": "tt1000003",
+      "name": "Taxi: Derrape total (2004)",
+      "type": "movie",
+      "url": "http://195.66.210.10:80/movie/Bluefox102/XYXNA/13564.mkv",
+      "poster": "https://image.tmdb.org/t/p/w500/eLDoNLJHZPcavTT1vJqZoGydoWB.jpg",
+      "genres": [
+        "Acción"
+      ],
+      "platform": "Hulu"
+    },
+    {
+      "id": "tt1000004",
+      "name": "El precio del poder (1983)",
+      "type": "movie",
+      "url": "http://195.66.210.10:80/movie/Bluefox102/XYXNA/513129.mkv",
+      "poster": "https://image.tmdb.org/t/p/w500/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
+      "genres": [
+        "Acción"
+      ],
+      "platform": "Hulu"
+    },
+    {
+      "id": "tt1000005",
+      "name": "El precio del poder (1983)",
+      "type": "movie",
+      "url": "http://195.66.210.10:80/movie/Bluefox102/XYXNA/235028.mkv",
+      "poster": "https://image.tmdb.org/t/p/w500/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
+      "genres": [
+        "Acción"
+      ],
+      "platform": "Hulu"
+    },
+    {
+      "id": "tt1000006",
+      "name": "El precio del poder (1983)",
+      "type": "movie",
+      "url": "http://195.66.210.10:80/movie/Bluefox102/XYXNA/227857.mp4",
+      "poster": "https://image.tmdb.org/t/p/w500/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
+      "genres": [
+        "Acción"
+      ],
+      "platform": "Hulu"
+    },
+    {
+      "id": "tt1000007",
+      "name": "El precio del poder (1983)",
+      "type": "movie",
+      "url": "http://195.66.210.10:80/movie/Bluefox102/XYXNA/92791.mkv",
+      "poster": "https://image.tmdb.org/t/p/w500/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
+      "genres": [
+        "Acción"
+      ],
+      "platform": "Hulu"
+    },
+    {
+      "id": "tt1000008",
+      "name": "Arceus y la joya de la vida (2009)",
+      "type": "movie",
+      "url": "http://195.66.210.10:80/movie/Bluefox102/XYXNA/227223.mkv",
+      "poster": "https://image.tmdb.org/t/p/w500/tpqguVMKyPbINe0GYmMwduoaUar.jpg",
+      "genres": [
+        "Animación"
+      ],
+      "platform": "Hulu"
+    },
+    {
+      "id": "tt1000009",
+      "name": "Arceus y la joya de la vida (2009)",
+      "type": "movie",
+      "url": "http://195.66.210.10:80/movie/Bluefox102/XYXNA/88596.mkv",
+      "poster": "https://image.tmdb.org/t/p/w500/tpqguVMKyPbINe0GYmMwduoaUar.jpg",
+      "genres": [
+        "Animación"
+      ],
+      "platform": "Hulu"
+    },
+    {
+      "id": "tt1000010",
+      "name": "Autosuficiencia (2024)",
+      "type": "movie",
+      "url": "http://195.66.210.10:80/movie/Bluefox102/XYXNA/545231.mkv",
+      "poster": "https://image.tmdb.org/t/p/w500/hlSWmmuuLeV1p3YcIkU59khEHLY.jpg",
+      "genres": [
+        "Ciencia ficción"
+      ],
+      "platform": "Hulu"
+    },
+    {
+      "id": "tt1000011",
+      "name": "Predator (2018)",
+      "type": "movie",
+      "url": "http://195.66.210.10:80/movie/Bluefox102/XYXNA/225479.mkv",
+      "poster": "https://image.tmdb.org/t/p/w500/vQhYhYsOBECkQzvSC3jInKv9CLf.jpg",
+      "genres": [
+        "Ciencia"
+      ],
+      "platform": "Hulu"
+    },
+    {
+      "id": "tt1000012",
+      "name": "Predator (2018)",
+      "type": "movie",
+      "url": "http://195.66.210.10:80/movie/Bluefox102/XYXNA/95471.mkv",
+      "poster": "https://image.tmdb.org/t/p/w500/vQhYhYsOBECkQzvSC3jInKv9CLf.jpg",
+      "genres": [
+        "Ciencia"
+      ],
+      "platform": "Hulu"
+    },
+    {
+      "id": "tt1000013",
+      "name": "Predator (2018)",
+      "type": "movie",
+      "url": "http://195.66.210.10:80/movie/Bluefox102/XYXNA/94845.mkv",
+      "poster": "https://image.tmdb.org/t/p/w500/vQhYhYsOBECkQzvSC3jInKv9CLf.jpg",
+      "genres": [
+        "Ciencia"
+      ],
+      "platform": "Hulu"
+    },
+    {
+      "id": "tt1000014",
+      "name": "District 9 (2009)",
+      "type": "movie",
+      "url": "http://195.66.210.10:80/movie/Bluefox102/XYXNA/226748.mkv",
+      "poster": "https://image.tmdb.org/t/p/w500/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg",
+      "genres": [
+        "Ciencia"
+      ],
+      "platform": "Hulu"
+    },
+    {
+      "id": "tt1000015",
+      "name": "District 9 (2009)",
+      "type": "movie",
+      "url": "http://195.66.210.10:80/movie/Bluefox102/XYXNA/93782.avi",
+      "poster": "https://image.tmdb.org/t/p/w500/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg",
+      "genres": [
+        "Ciencia"
+      ],
+      "platform": "Hulu"
+    },
+    {
+      "id": "tt1000016",
+      "name": "Palm Springs (2020)",
+      "type": "movie",
+      "url": "http://195.66.210.10:80/movie/Bluefox102/XYXNA/272804.mkv",
+      "poster": "https://image.tmdb.org/t/p/w500/yf5IuMW6GHghu39kxA0oFx7Bxmj.jpg",
+      "genres": [
+        "Comedy"
+      ],
+      "platform": "Hulu"
+    },
+    {
+      "id": "tt1000017",
+      "name": "Ted 2 (2015)",
+      "type": "movie",
+      "url": "http://195.66.210.10:80/movie/Bluefox102/XYXNA/242841.mp4",
+      "poster": "https://image.tmdb.org/t/p/w500/38C91I7Xft0gyY7BITm8i4yvuRb.jpg",
+      "genres": [
+        "Comedy"
+      ],
+      "platform": "Hulu"
+    },
+    {
+      "id": "tt1000018",
+      "name": "Ted (2012)",
+      "type": "movie",
+      "url": "http://195.66.210.10:80/movie/Bluefox102/XYXNA/242842.mkv",
+      "poster": "https://image.tmdb.org/t/p/w500/tZPTcdGTpxq4yJx1YxqBl0gthNz.jpg",
+      "genres": [
+        "Comedy"
+      ],
+      "platform": "Hulu"
+    },
+    {
+      "id": "tt1000019",
+      "name": "El exorcismo de Emily Rose (2005)",
+      "type": "movie",
+      "url": "http://195.66.210.10:80/movie/Bluefox102/XYXNA/13742.mkv",
+      "poster": "https://image.tmdb.org/t/p/w500/qMN0HIP34f736kkQcfvTfmL9TP3.jpg",
+      "genres": [
+        "Crime"
+      ],
+      "platform": "Hulu"
+    },
+    {
+      "id": "tt1000020",
+      "name": "Wall Street (1987)",
+      "type": "movie",
+      "url": "http://195.66.210.10:80/movie/Bluefox102/XYXNA/235678.mkv",
+      "poster": "https://image.tmdb.org/t/p/w500/2tQYq9ntzn2dEwDIGLBSipYPenv.jpg",
+      "genres": [
+        "Crime"
+      ],
+      "platform": "Hulu"
+    },
+    {
+      "id": "tt1000021",
+      "name": "Wall Street (1987)",
+      "type": "movie",
+      "url": "http://195.66.210.10:80/movie/Bluefox102/XYXNA/235677.mkv",
+      "poster": "https://image.tmdb.org/t/p/w500/2tQYq9ntzn2dEwDIGLBSipYPenv.jpg",
+      "genres": [
+        "Crime"
+      ],
+      "platform": "Hulu"
+    },
+    {
+      "id": "tt1000022",
+      "name": "Dig (2022)",
+      "type": "movie",
+      "url": "http://195.66.210.10:80/movie/Bluefox102/XYXNA/536305.mkv",
+      "poster": "https://image.tmdb.org/t/p/w500/ntD0ieBgZ1AlV0tAam3aeFDH6k7.jpg",
+      "genres": [
+        "Documentary"
+      ],
+      "platform": "Hulu"
+    },
+    {
+      "id": "tt1000023",
+      "name": "The Guardian (2006)",
+      "type": "movie",
+      "url": "http://195.66.210.10:80/movie/Bluefox102/XYXNA/275798.mkv",
+      "poster": "https://image.tmdb.org/t/p/w500/zFhFjrckfmdb33VDeRykumMmebU.jpg",
+      "genres": [
+        "Documentary"
+      ],
+      "platform": "Hulu"
+    },
+    {
+      "id": "tt1000024",
+      "name": "American Underdog (2021)",
+      "type": "movie",
+      "url": "http://195.66.210.10:80/movie/Bluefox102/XYXNA/242277.mkv",
+      "poster": "https://image.tmdb.org/t/p/w500/oQGqNicbPw5wpWYk64cL6HnDCBz.jpg",
+      "genres": [
+        "Drama"
+      ],
+      "platform": "Hulu"
+    },
+    {
+      "id": "tt1000025",
+      "name": "Long Weekend (2021)",
+      "type": "movie",
+      "url": "http://195.66.210.10:80/movie/Bluefox102/XYXNA/229532.mkv",
+      "poster": "https://image.tmdb.org/t/p/w500/OyKfblQX6SR2rL6R26g5eYCLHq.jpg",
+      "genres": [
+        "Romance"
+      ],
+      "platform": "Hulu"
+    },
+    {
+      "id": "tt1000026",
+      "name": "The Call (2020)",
+      "type": "movie",
+      "url": "http://195.66.210.10:80/movie/Bluefox102/XYXNA/259736.mkv",
+      "poster": "https://image.tmdb.org/t/p/w500/mG334OlDVJpD8gMfTCM2Mpp0gQH.jpg",
+      "genres": [
+        "Suspense"
+      ],
+      "platform": "Hulu"
+    },
+    {
+      "id": "tt1000027",
+      "name": "Terror en el Óceano (2022)",
+      "type": "movie",
+      "url": "http://195.66.210.10:80/movie/Bluefox102/XYXNA/614270.mp4",
+      "poster": "https://image.tmdb.org/t/p/w500/pwf3DGuWB1AptvIzHhlGxDUNnQX.jpg",
+      "genres": [
+        "Horror"
+      ],
+      "platform": "Hulu"
+    },
+    {
+      "id": "tt1000028",
+      "name": "La casa de Jack (2018)",
+      "type": "movie",
+      "url": "http://195.66.210.10:80/movie/Bluefox102/XYXNA/92808.mkv",
+      "poster": "https://image.tmdb.org/t/p/w500/bMUGNkPaHOurcBK9g3XpJx3fxuO.jpg",
+      "genres": [
+        "Horror"
+      ],
+      "platform": "Hulu"
+    }
+  ],
+  "genres": [
+    "Acción",
+    "Animación",
+    "Ciencia ficción",
+    "Ciencia",
+    "Comedy",
+    "Crime",
+    "Documentary",
+    "Drama",
+    "Romance",
+    "Suspense",
+    "Horror"
+  ],
+  "platforms": [
+    "Hulu"
+  ]
+}
