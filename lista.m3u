@@ -1,11 +1,14 @@
 
-#EXTINF:-1 tvg-id="" tvg-name="¡Ayuda! (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/29PEVnEskJssQt8Wmj2hVgNfl2z.jpg" group-title="Lo mas nuevo",¡Ayuda! (2026)
+#EXTINF:-1 tvg-id="" tvg-name="¡Ayuda! (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/29PEVnEskJssQt8Wmj2hVgNfl2z.jpg" group-title="ESTRENOS",¡Ayuda! (2026)
 http://tvpromas.com:2082/movie/stksegar/9357/131706.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="El Día Del Fin Del Mundo: Migración (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uoFJ6nGGvf8moZGpharm8Qyrpzm.jpg" group-title="Lo mas nuevo",El Día Del Fin Del Mundo: Migración (2026)
+#EXTINF:-1 tvg-id="" tvg-name="El Día Del Fin Del Mundo: Migración (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uoFJ6nGGvf8moZGpharm8Qyrpzm.jpg" group-title="ESTRENOS",El Día Del Fin Del Mundo: Migración (2026)
 http://tvpromas.com:2082/movie/stksegar/9357/131309.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¡Ayuda! (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/29PEVnEskJssQt8Wmj2hVgNfl2z.jpg" group-title="2026",¡Ayuda! (2026)
-http://tvpromas.com:2082/movie/stksegar/9357/131706.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La meta es el amor (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4UE5pQOuuANo17V3TjXBbHYvutj.jpg" group-title="2026",La meta es el amor (2026)
+http://tvpromas.com:2082/movie/stksegar/9357/131707.mkv
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Safe S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xMaJcV99iLaQyWsrW9uXuerJLG.jpg" group-title="DRAMA",Safe S01 E04
 http://tvpromas.com:2082/series/stksegar/9357/117818.mkv
 #EXTINF:-1 tvg-id="" tvg-name="asdsad" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xMaJcV99iLaQyWsrW9uXuerJLG.jpg" group-title="franco",Todas iguales
@@ -63,8 +66,9 @@ http://tvpromas.com:2082/movie/stksegar/9357/131704.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Una carta a mi juventud (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQAEYXhRyOD6OQK0tKt9FAj3Kkx.jpg" group-title="2026",Una carta a mi juventud (2026)
 http://tvpromas.com:2082/movie/stksegar/9357/131705.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="La meta es el amor (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4UE5pQOuuANo17V3TjXBbHYvutj.jpg" group-title="2026",La meta es el amor (2026)
-http://tvpromas.com:2082/movie/stksegar/9357/131707.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="¡Ayuda! (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/29PEVnEskJssQt8Wmj2hVgNfl2z.jpg" group-title="2026",¡Ayuda! (2026)
+http://tvpromas.com:2082/movie/stksegar/9357/131706.mkv
 #EXTINF:-1 tvg-id="" tvg-name="¡Uf! ¿Solo amigos? (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDcHWsESmG7j8fnVbPxR6dQz0vA.jpg" group-title="2026",¡Uf! ¿Solo amigos? (2026)
 http://tvpromas.com:2082/movie/stksegar/9357/131708.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La reina del ajedrez (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ag5TZNcK3vHdCCpZIY8syjwzgfr.jpg" group-title="2026",La reina del ajedrez (2026)
