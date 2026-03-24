@@ -16,8 +16,8 @@ http://tvpromas.com:2082/series/stksegar/9357/117822.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Quédate cerca S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTfPZPAawxizNt6gDeJbT0O5uEP.jpg" group-title="DRAMA",Quédate cerca S01 E01
 http://tvpromas.com:2082/series/stksegar/9357/117823.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="David (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bESlrLOrsQ9gKzaGQGHXKOyIUtX.jpg" group-title="2025",David (2025)
-http://tvpromas.com:2082/movie/stksegar/9357/131686.mkv
+#EXTINF:-1 tvg-id="" tvg-name="David (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bESlrLOrsQ9gKzaGQGHXKOyIUtX.jpg" group-title="2025",netflix intro
+https://github.com/Zzprog-arg/m3u/raw/refs/heads/main/Netflix_Intro_1080p_Highest_Quality_1080p.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Beso de tres (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v4x6hY3voDJtzlZVAWD2NeqDV9a.jpg" group-title="2025",Beso de tres (2025)
 http://tvpromas.com:2082/movie/stksegar/9357/131687.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Christy (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ssy1uHGZkuXLkIWJWrtsBczPvVC.jpg" group-title="2025",Christy (2025)
