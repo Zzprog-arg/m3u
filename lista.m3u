@@ -1,49 +1,59 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Rayo Murali (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3MKmd4KTf5dkJDo3WAhV4K73RN.jpg" group-title="netflix acción",Rayo Murali (2021)
-http://tvhomesmart.xyz:8080/movie/3jGev3BnaKBw/sQXsnhsu9RPm/2907.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ahí te encargo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v230KtHmd261EA4OSMMSC2TCiA8.jpg" group-title="netflix comedia",Ahí te encargo (2020)
-http://tvhomesmart.xyz:8080/movie/3jGev3BnaKBw/sQXsnhsu9RPm/1629.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Paternidad" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2hRAvXdpCMDm9WDOMFksY7nZAhl.jpg" group-title="netflix drama",Paternidad
-http://tvhomesmart.xyz:8080/movie/3jGev3BnaKBw/sQXsnhsu9RPm/250088.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El Mundo Temblara " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/79UAwZXaUyvz7cBuwipboj5BTBz.jpg" group-title="netflix drama",El Mundo Temblara 
-http://tvhomesmart.xyz:8080/movie/3jGev3BnaKBw/sQXsnhsu9RPm/280081.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Corte en el Tiempo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzMFMmpJHOmOFKsAhSDac62Dyg2.jpg" group-title="netflix horror",Corte en el Tiempo (2024)
-http://tvhomesmart.xyz:8080/movie/3jGev3BnaKBw/sQXsnhsu9RPm/265197.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El telefono del señor Harrigan" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aERrzPJyUYAhmbies50dMz21W4u.jpg" group-title="netflix horror",El telefono del señor Harrigan
-http://tvhomesmart.xyz:8080/movie/3jGev3BnaKBw/sQXsnhsu9RPm/250086.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El stand de los besos 2 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYxGxxFMpS0VKLAh1ObSgjnT1tx.jpg" group-title="netflix romance",El stand de los besos 2 (2020)
-http://tvhomesmart.xyz:8080/movie/3jGev3BnaKBw/sQXsnhsu9RPm/1955.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders: El hombre inmortal (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9S8MLUyi2diTc2Gf3KDAOQTuVx.jpg" group-title="netflix estrenos",Peaky Blinders: El hombre inmortal (2026)
-http://tvhomesmart.xyz:8080/movie/3jGev3BnaKBw/sQXsnhsu9RPm/280424.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cortafuego (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gqzIKAeBKkiwj5qz2oZCOuZKHPA.jpg" group-title="netflix estrenos",Cortafuego (2026)
-http://tvhomesmart.xyz:8080/movie/3jGev3BnaKBw/sQXsnhsu9RPm/280138.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Acusada (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkQJz9mhx9JHQbs8uRN86S6r4Ko.jpg" group-title="netflix estrenos",Acusada (2026)
-http://tvhomesmart.xyz:8080/movie/3jGev3BnaKBw/sQXsnhsu9RPm/280139.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ahí estoy yo (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6nTqw569IFEZtCMKaRYPH2vnEzG.jpg" group-title="netflix estrenos",Ahí estoy yo (2026)
-http://tvhomesmart.xyz:8080/movie/3jGev3BnaKBw/sQXsnhsu9RPm/279983.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El Botin (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28hTjQCq0ul6WUR22qRsWEeuxlj.jpg" group-title="netflix estrenos",El Botin (2026)
-http://tvhomesmart.xyz:8080/movie/3jGev3BnaKBw/sQXsnhsu9RPm/279351.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gente que conocemos en Vacaciones (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SUEbyc5OUaNkGPLK3f1w3Ryoyo.jpg" group-title="netflix estrenos",Gente que conocemos en Vacaciones (2026)
-http://tvhomesmart.xyz:8080/movie/3jGev3BnaKBw/sQXsnhsu9RPm/279293.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hijos de la Violencia" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/b4b5ead1de7dd5002ae07e2812733f00b58b95b6ecd4f9774b95d044aad47b3b._SX1080_FMjpg_.jpg" group-title="prime video acción",Hijos de la Violencia
-http://tvhomesmart.xyz:8080/movie/3jGev3BnaKBw/sQXsnhsu9RPm/271267.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Persecucion (2025)" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/f06b4b0aa455cd59201aefe36818c28c5ec949b080bfb756b7cafea93096458e.png" group-title="prime video acción",La Persecucion (2025)
-http://tvhomesmart.xyz:8080/movie/3jGev3BnaKBw/sQXsnhsu9RPm/277775.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Oro" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/0caefb62be47cba511fb1032caa2339e36be62b68ebf03c456638a38b7782620.jpg" group-title="prime video aventuras",Oro
-http://tvhomesmart.xyz:8080/movie/3jGev3BnaKBw/sQXsnhsu9RPm/256309.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El Amor es un viaje en Trineo al Infierno" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/34d89c520240c52f4efaac31b827c48f3bfbb9f73506f5e82289f56a05c8edc4._UR1920,1080_SX720_FMjpg_.jpg" group-title="prime video comedia",El Amor es un viaje en Trineo al Infierno
-http://tvhomesmart.xyz:8080/movie/3jGev3BnaKBw/sQXsnhsu9RPm/253492.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Memorias de un Asesino" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/ff4654e13dd165ffcbb76e7401e6f24e5c5435ef7546da857ba38d456364c353._RI_TTW_SX720_FMjpg_.jpg" group-title="prime video crimen",Memorias de un Asesino
-http://tvhomesmart.xyz:8080/movie/3jGev3BnaKBw/sQXsnhsu9RPm/268376.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Astro-turismo, sentir el universo" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/fd16da0726a1ffa86b032de1a5f3f9cf2bc7e47b15952f497bbbbaa9c2da2e21.jpg" group-title="prime video documentales",Astro-turismo, sentir el universo
-http://tvhomesmart.xyz:8080/movie/3jGev3BnaKBw/sQXsnhsu9RPm/264076.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Gaudí en la Catedral de Mallorca. El Obispo, el Arquitecto y el Baldaquino" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/f977199fed94687bffbead14b079ffda595c7c361ebcf69b6af6016950d3e6be.jpg" group-title="prime video documentales",Gaudí en la Catedral de Mallorca. El Obispo, el Arquitecto y el Baldaquino
-http://tvhomesmart.xyz:8080/movie/3jGev3BnaKBw/sQXsnhsu9RPm/264077.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Arcangeles:La Guerra entre el bien y el Mal" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/082b3f6a24970ac58449f9dae22417fb13792e5f2053f6c4a853fc39dfa7ed30.jpg" group-title="prime video fantasía",Arcangeles:La Guerra entre el bien y el Mal
-http://tvhomesmart.xyz:8080/movie/3jGev3BnaKBw/sQXsnhsu9RPm/256100.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Melodia del Mal" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/3990906434db8f20058ab718f037154162e594f1daaf04ec850e8fccf7baad40.png" group-title="prime video horror",Melodia del Mal
-http://tvhomesmart.xyz:8080/movie/3jGev3BnaKBw/sQXsnhsu9RPm/267404.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mi Arma era la Ley 2" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/de577571db8de593d00e466ebe44ba493a83eb95bbad8b7b897f4533601c1d9b.jpg" group-title="prime video western",Mi Arma era la Ley 2
-http://tvhomesmart.xyz:8080/movie/3jGev3BnaKBw/sQXsnhsu9RPm/260410.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Becho o la Extraordinaria Aparicion de la Comparsita" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/38b7fa9c-9e09-485b-97c3-1943981c2ed6/compose?format=webp&label=standard_art_178&width=800" group-title="disney+ animación",Becho o la Extraordinaria Aparicion de la Comparsita
-http://tvhomesmart.xyz:8080/movie/3jGev3BnaKBw/sQXsnhsu9RPm/246220.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Liberación (1971)" tvg-logo="http://mundo2.pro:80/images/88cc16c40767ecbe2c7c852de7c475b6.jpg" group-title="⏩ NETFLIX TERROR  DUAL AUDIO ⏪",Liberación (1971)
+http://daleplaytv.vip:80/movie/NicoMong55@/NJk9ETUhE9FU/473236.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pearl (2022)" tvg-logo="http://mundo2.pro:80/images/c0c44159ecd35e11c413be542885ac8e.jpg" group-title="⏩ NETFLIX TERROR  DUAL AUDIO ⏪",Pearl (2022)
+http://daleplaytv.vip:80/movie/NicoMong55@/NJk9ETUhE9FU/473235.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fragmentado (2017)" tvg-logo="http://mundo2.pro:80/images/544fd40f2f87167f103e68278adb28bb.jpg" group-title="⏩ NETFLIX TERROR  DUAL AUDIO ⏪",Fragmentado (2017)
+http://daleplaytv.vip:80/movie/NicoMong55@/NJk9ETUhE9FU/473234.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerra mundial Z (2013)" tvg-logo="http://mundo2.pro:80/images/ede77bb1c3bc2b14bfbc2219d1126d7f.jpg" group-title="⏩ NETFLIX TERROR  DUAL AUDIO ⏪",Guerra mundial Z (2013)
+http://daleplaytv.vip:80/movie/NicoMong55@/NJk9ETUhE9FU/473233.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trampa en alta mar (2024)" tvg-logo="http://mundo2.pro:80/images/95ae60327b06487c90007047c21f2fce.jpg" group-title="⏩ NETFLIX TERROR  DUAL AUDIO ⏪",Trampa en alta mar (2024)
+http://daleplaytv.vip:80/movie/NicoMong55@/NJk9ETUhE9FU/473232.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scary movie 3_ No hay dos sin 3" tvg-logo="" group-title="⏩ NETFLIX TERROR  DUAL AUDIO ⏪",Scary movie 3_ No hay dos sin 3
+http://daleplaytv.vip:80/movie/NicoMong55@/NJk9ETUhE9FU/473231.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El elixir de la inmortalidad (2025)" tvg-logo="http://mundo2.pro:80/images/00a1e36987cf6bab2949ff72595ade22.jpg" group-title="⏩ NETFLIX TERROR  DUAL AUDIO ⏪",El elixir de la inmortalidad (2025)
+http://daleplaytv.vip:80/movie/NicoMong55@/NJk9ETUhE9FU/473230.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mi novio es un zombie (2013)" tvg-logo="http://mundo2.pro:80/images/764c9f27502283a3a1543603a3d14eac.jpg" group-title="⏩ NETFLIX TERROR  DUAL AUDIO ⏪",Mi novio es un zombie (2013)
+http://daleplaytv.vip:80/movie/NicoMong55@/NJk9ETUhE9FU/473229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cámara Policial (2020)" tvg-logo="http://mundo2.pro:80/images/8867c7b57f6d682de6b419156cfb9554.jpg" group-title="⏩ NETFLIX TERROR  DUAL AUDIO ⏪",Cámara Policial (2020)
+http://daleplaytv.vip:80/movie/NicoMong55@/NJk9ETUhE9FU/473228.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wonka (2023)" tvg-logo="http://mundo2.pro:80/images/7858a69f84d493c44905190df595f2f8.jpg" group-title="⏩ NETFLIX TERROR  DUAL AUDIO ⏪",Wonka (2023)
+http://daleplaytv.vip:80/movie/NicoMong55@/NJk9ETUhE9FU/473227.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corre (2015)" tvg-logo="http://mundo2.pro:80/images/c8b66e353d592c2f02f5b4f9d318c62d.jpg" group-title="⏩ NETFLIX TERROR  DUAL AUDIO ⏪",Corre (2015)
+http://daleplaytv.vip:80/movie/NicoMong55@/NJk9ETUhE9FU/473226.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La calle del terror: La reina del baile (2025)" tvg-logo="http://mundo2.pro:80/images/720ee3f03ed074f117ed911e4c7c6a2f.jpg" group-title="⏩ NETFLIX TERROR  DUAL AUDIO ⏪",La calle del terror: La reina del baile (2025)
+http://daleplaytv.vip:80/movie/NicoMong55@/NJk9ETUhE9FU/473225.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Death Note (2017)" tvg-logo="http://mundo2.pro:80/images/f749d275873b6c09617b12b0a364dfba.jpg" group-title="⏩ NETFLIX TERROR  DUAL AUDIO ⏪",Death Note (2017)
+http://daleplaytv.vip:80/movie/NicoMong55@/NJk9ETUhE9FU/473224.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monja (2011)" tvg-logo="http://mundo2.pro:80/images/e3a3b8ead41d1ec793a55c789946d4b4.jpg" group-title="⏩ NETFLIX TERROR  DUAL AUDIO ⏪",Monja (2011)
+http://daleplaytv.vip:80/movie/NicoMong55@/NJk9ETUhE9FU/473223.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Silencio (2018)" tvg-logo="http://mundo2.pro:80/images/7a01d22f71080b1de5aa175fbb57d2b3.jpg" group-title="⏩ NETFLIX TERROR  DUAL AUDIO ⏪",Silencio (2018)
+http://daleplaytv.vip:80/movie/NicoMong55@/NJk9ETUhE9FU/473222.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anaconda 2: En busca de la orquídea sangrienta (2004)" tvg-logo="http://mundo2.pro:80/images/915c3cd9992c11dea32e85d46bfbb784.jpg" group-title="⏩ NETFLIX TERROR  DUAL AUDIO ⏪",Anaconda 2: En busca de la orquídea sangrienta (2004)
+http://daleplaytv.vip:80/movie/NicoMong55@/NJk9ETUhE9FU/473221.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bird Box: A Ciegas (2018)" tvg-logo="http://mundo2.pro:80/images/e585cddee9d9ea56c2d4ff4b0530b571.jpg" group-title="⏩ NETFLIX TERROR  DUAL AUDIO ⏪",Bird Box: A Ciegas (2018)
+http://daleplaytv.vip:80/movie/NicoMong55@/NJk9ETUhE9FU/473220.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La casa de los abuelos (2021)" tvg-logo="http://mundo2.pro:80/images/defcd0cc0494169cb78b376fe432c227.jpg" group-title="⏩ NETFLIX TERROR  DUAL AUDIO ⏪",La casa de los abuelos (2021)
+http://daleplaytv.vip:80/movie/NicoMong55@/NJk9ETUhE9FU/473219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="#Vivo (2020)" tvg-logo="http://mundo2.pro:80/images/195c0fc509814f96d25fe0176fd77160.jpg" group-title="⏩ NETFLIX TERROR  DUAL AUDIO ⏪",#Vivo (2020)
+http://daleplaytv.vip:80/movie/NicoMong55@/NJk9ETUhE9FU/473218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brightburn: Hijo de la oscuridad (2019)" tvg-logo="http://mundo2.pro:80/images/ace98958b414b58aee4498f0b3d37fa3.jpg" group-title="⏩ NETFLIX TERROR  DUAL AUDIO ⏪",Brightburn: Hijo de la oscuridad (2019)
+http://daleplaytv.vip:80/movie/NicoMong55@/NJk9ETUhE9FU/473217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonríe 2 (2024)" tvg-logo="http://mundo2.pro:80/images/90608b5779cadeb7305e2d4219c1b2aa.jpg" group-title="⏩ NETFLIX TERROR  DUAL AUDIO ⏪",Sonríe 2 (2024)
+http://daleplaytv.vip:80/movie/NicoMong55@/NJk9ETUhE9FU/473216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ahí afuera (2024)" tvg-logo="http://mundo2.pro:80/images/611ca6985e01cac4e408dec8bd37a311.jpg" group-title="⏩ NETFLIX TERROR  DUAL AUDIO ⏪",Ahí afuera (2024)
+http://daleplaytv.vip:80/movie/NicoMong55@/NJk9ETUhE9FU/473215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un lugar en silencio: Día uno (2024)" tvg-logo="http://mundo2.pro:80/images/ef4886be22fc4e0b4783a98e7f0f3668.jpg" group-title="⏩ NETFLIX TERROR  DUAL AUDIO ⏪",Un lugar en silencio: Día uno (2024)
+http://daleplaytv.vip:80/movie/NicoMong55@/NJk9ETUhE9FU/473214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inframundo 4: El despertar (2012)" tvg-logo="http://mundo2.pro:80/images/2f56929f5a702d8252146bdfa044a4f9.jpg" group-title="⏩ NETFLIX TERROR  DUAL AUDIO ⏪",Inframundo 4: El despertar (2012)
+http://daleplaytv.vip:80/movie/NicoMong55@/NJk9ETUhE9FU/473213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Escape Room: Sin Salida (2019)" tvg-logo="http://mundo2.pro:80/images/fa4a41507c18415a69b69264768aa2cf.jpg" group-title="⏩ NETFLIX TERROR  DUAL AUDIO ⏪",Escape Room: Sin Salida (2019)
+http://daleplaytv.vip:80/movie/NicoMong55@/NJk9ETUhE9FU/473212.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ruinas (2012)" tvg-logo="http://mundo2.pro:80/images/cc996d0fcb82c68220de7406698bda35.jpg" group-title="⏩ NETFLIX TERROR  DUAL AUDIO ⏪",Ruinas (2012)
+http://daleplaytv.vip:80/movie/NicoMong55@/NJk9ETUhE9FU/473211.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El proyecto de la bruja de Blair (1999)" tvg-logo="http://mundo2.pro:80/images/177c1ea6841963d125a8a32a084ec6e7.jpg" group-title="⏩ NETFLIX TERROR  DUAL AUDIO ⏪",El proyecto de la bruja de Blair (1999)
+http://daleplaytv.vip:80/movie/NicoMong55@/NJk9ETUhE9FU/473210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El último exorcismo: Parte II (2013)" tvg-logo="http://mundo2.pro:80/images/20d614b46577445b65ebfc593671a99a.jpg" group-title="⏩ NETFLIX TERROR  DUAL AUDIO ⏪",El último exorcismo: Parte II (2013)
+http://daleplaytv.vip:80/movie/NicoMong55@/NJk9ETUhE9FU/473209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tierra de zombies" tvg-logo="" group-title="⏩ NETFLIX TERROR  DUAL AUDIO ⏪",Tierra de zombies
+http://daleplaytv.vip:80/movie/NicoMong55@/NJk9ETUhE9FU/473208.mp4
